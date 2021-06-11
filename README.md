@@ -11,7 +11,6 @@ A lot of students are trying to learn cloud skills. There are a lot of courses o
 
 We hope **RealCloudLabs** could solve this enormous issue for students all over the world.
 
----
 
 ## How are labs organized?
 
@@ -29,7 +28,7 @@ Each lab has a naming convention, that is based on these:
 
 ### Example
 
-Consider this: **SEC-IR-AWS-300**
+Consider this: **SEC-IR1-AWS-300**
 
 It referes to:
 
@@ -38,18 +37,16 @@ It referes to:
 * Cloud Provider: *Amazon Web Services*
 * Level: *300*
 
----
 
 ## How to start?
 1. Read about the project at [RealCloudLabs.com](https://RealCloudLabs.com)
 2. Join the [Telegram Channel](https://t.me/?) to get in touch with our awesome community
-3. Fork this repository, and use the template below to show your progress. Don't delete other paths that you won't take.
+3. [Fork this repository](https://github.com/thecrux4020/RealCloudLabs/generate), and use the template below to show your progress. Don't delete other paths that you won't take.
 4. [Choose a Lab](Labs/), do at least 1 per day.
-5. Use the [journey template](Templates/journey.md) to create a documentation of your achievements each day.
+5. Use the [journey template](Templates/journey.md) to document your achievements each day.
 6. Update the links in the template below, to the corresponding link in Journeys.
 7. When you finish the day, it's a must to **POST YOUR JOURNEY** in social networks (linkedin, twitter, etc). In this way, you'll be more compromised to finish your goals, and at same time you'll **share your knowdledge** with others!
 
----
 
 ## How to use this template:
 Fill in your details where you see this icon ✏️. Replace values inside brackets
@@ -58,7 +55,7 @@ The minimum amount of labs you have to complete in order to have a basic knowdle
 
 You can follow whatever labs you consider, this is just an advice from us. 
 
----
+
 
 ## [✏️ Your Name]'s Cloud Labs
 
@@ -139,35 +136,35 @@ You can follow whatever labs you consider, this is just an advice from us.
 
 ## Developer
 
-- [X] `:mage:` 1 => [My first Dev Lab](Journey/Developer/001/readme.md)
-- [ ] `:mage:` 2 => [](Journey/Developer/001/readme.md)
-- [ ] `:mage:` 3 => [](Journey/Developer/002/readme.md)
-- [ ] `:mage:` 4 => [](Journey/Developer/003/readme.md)
-- [ ] `:mage:` 5 => [](Journey/Developer/004/readme.md)
-- [ ] `:mage:` 6 => [](Journey/Developer/005/readme.md)
-- [ ] `:mage:` 7 => [](Journey/Developer/006/readme.md)
-- [ ] `:mage:` 8 => [](Journey/Developer/007/readme.md)
-- [ ] `:mage:` 9 => [](Journey/Developer/008/readme.md)
-- [ ] `:mage:` 10 => [](Journey/Developer/010/readme.md)
-- [ ] `:mage:` 11 => [](Journey/Developer/011/readme.md)
-- [ ] `:mage:` 12 => [](Journey/Developer/012/readme.md)
-- [ ] `:mage:` 13 => [](Journey/Developer/013/readme.md)
-- [ ] `:mage:` 15 => [](Journey/Developer/015/readme.md)
-- [ ] `:mage:` 16 => [](Journey/Developer/016/readme.md)
-- [ ] `:mage:` 17 => [](Journey/Developer/017/readme.md)
-- [ ] `:mage:` 18 => [](Journey/Developer/018/readme.md)
-- [ ] `:mage:` 19 => [](Journey/Developer/019/readme.md)
-- [ ] `:mage:` 20 => [](Journey/Developer/020/readme.md)
-- [ ] `:mage:` 21 => [](Journey/Developer/021/readme.md)
-- [ ] `:mage:` 22 => [](Journey/Developer/022/readme.md)
-- [ ] `:mage:` 23 => [](Journey/Developer/023/readme.md)
-- [ ] `:mage:` 24 => [](Journey/Developer/024/readme.md)
-- [ ] `:mage:` 25 => [](Journey/Developer/025/readme.md)
-- [ ] `:mage:` 26 => [](Journey/Developer/026/readme.md)
-- [ ] `:mage:` 27 => [](Journey/Developer/027/readme.md)
-- [ ] `:mage:` 28 => [](Journey/Developer/028/readme.md)
-- [ ] `:mage:` 29 => [](Journey/Developer/029/readme.md)
-- [ ] `:mage:` 30 => [](Journey/Developer/030/readme.md)
+- [X] 🧙‍♂️ 1 => [My first Dev Lab](Journey/Developer/001/readme.md)
+- [ ] 🧙‍♂️ 2 => [](Journey/Developer/001/readme.md)
+- [ ] 🧙‍♂️ 3 => [](Journey/Developer/002/readme.md)
+- [ ] 🧙‍♂️ 4 => [](Journey/Developer/003/readme.md)
+- [ ] 🧙‍♂️ 5 => [](Journey/Developer/004/readme.md)
+- [ ] 🧙‍♂️ 6 => [](Journey/Developer/005/readme.md)
+- [ ] 🧙‍♂️ 7 => [](Journey/Developer/006/readme.md)
+- [ ] 🧙‍♂️ 8 => [](Journey/Developer/007/readme.md)
+- [ ] 🧙‍♂️ 9 => [](Journey/Developer/008/readme.md)
+- [ ] 🧙‍♂️ 10 => [](Journey/Developer/010/readme.md)
+- [ ] 🧙‍♂️ 11 => [](Journey/Developer/011/readme.md)
+- [ ] 🧙‍♂️ 12 => [](Journey/Developer/012/readme.md)
+- [ ] 🧙‍♂️ 13 => [](Journey/Developer/013/readme.md)
+- [ ] 🧙‍♂️ 15 => [](Journey/Developer/015/readme.md)
+- [ ] 🧙‍♂️ 16 => [](Journey/Developer/016/readme.md)
+- [ ] 🧙‍♂️ 17 => [](Journey/Developer/017/readme.md)
+- [ ] 🧙‍♂️ 18 => [](Journey/Developer/018/readme.md)
+- [ ] 🧙‍♂️ 19 => [](Journey/Developer/019/readme.md)
+- [ ] 🧙‍♂️ 20 => [](Journey/Developer/020/readme.md)
+- [ ] 🧙‍♂️ 21 => [](Journey/Developer/021/readme.md)
+- [ ] 🧙‍♂️ 22 => [](Journey/Developer/022/readme.md)
+- [ ] 🧙‍♂️ 23 => [](Journey/Developer/023/readme.md)
+- [ ] 🧙‍♂️ 24 => [](Journey/Developer/024/readme.md)
+- [ ] 🧙‍♂️ 25 => [](Journey/Developer/025/readme.md)
+- [ ] 🧙‍♂️ 26 => [](Journey/Developer/026/readme.md)
+- [ ] 🧙‍♂️ 27 => [](Journey/Developer/027/readme.md)
+- [ ] 🧙‍♂️ 28 => [](Journey/Developer/028/readme.md)
+- [ ] 🧙‍♂️ 29 => [](Journey/Developer/029/readme.md)
+- [ ] 🧙‍♂️ 30 => [](Journey/Developer/030/readme.md)
 
 ## Networking
 
@@ -233,3 +230,10 @@ You can follow whatever labs you consider, this is just an advice from us.
 - [ ] 🔎 28 => [](Journey/Governance/028/readme.md)
 - [ ] 🔎 29 => [](Journey/Governance/029/readme.md)
 - [ ] 🔎 30 => [](Journey/Governance/030/readme.md)
+
+
+
+# Contributors
+
+* [Leandro Mantovani]()
+* Add a Lab to see your name in the list!
