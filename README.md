@@ -3,6 +3,12 @@
 </p>
  
 # Real Cloud Labs
+
+## What?
+
+Laboratories designed to help students and professionals learn Cloud concepts by practice.
+ 
+
 ## Why?
  
 Cloud is not as simple as when it started. Now we have multiple cloud providers, tons of different services in every one of them... things got complex.
