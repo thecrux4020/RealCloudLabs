@@ -1,76 +1,76 @@
 <p align="center">
-  <img src="banner.png">
+ <img src="banner.png">
 </p>
-
+ 
 # Real Cloud Labs
 ## Why?
-
-Cloud is not as simple as when it started. Now we have multiple cloud providers, tons of differents services in every one of them... things got complex.
-
-A lot of students are trying to learn cloud skills. There are a lot of courses out there, but there isn't such a good place to practice with real labs, designed to achieve specific skills. 
-
+ 
+Cloud is not as simple as when it started. Now we have multiple cloud providers, tons of different services in every one of them... things got complex.
+ 
+A lot of students are trying to learn cloud skills. There are a lot of courses out there, but there isn't such a good place to practice with real labs, designed to achieve specific skills.
+ 
 We hope **RealCloudLabs** could solve this enormous issue for students all over the world.
-
-
+ 
+ 
 ## How are labs organized?
-
-The main sections are divided by learnings paths (devops, developer, security). The paths are designed to help students master an specific topic. 
-
-Inside each path, there are subsections that are specific to the path itself. 
-
-Each lab has a naming convention, that is based on these:
-
-* Cloud provider (We support AWS, Azure and GCP)
-* Level of the Lab (200, 300, 400)
-  * Advanced levels means more time to complete
-* Learning path
-* Sub-section of learning path
-
+ 
+The main sections are divided by **learnings paths** (DevOps, developer, security). The paths are designed to help students master a specific topic.
+ 
+Inside each path, there are subsections that are specific to the path itself.
+ 
+Each lab has a **naming convention**, that is based on these:
+ 
+* `Learning path`
+* `Sub-section` of learning path
+* `Cloud provider` (AWS, Azure and GCP)
+* `Level of the Lab` (200, 300, 400)
+ * Advanced levels means more time to complete
+ 
 ### Example
-
+ 
 Consider this: **SEC-IR1-AWS-300**
-
-It referes to:
-
-* Learning path: *Security*
-* Sub-Section: *Incident Response*
-* Cloud Provider: *Amazon Web Services*
-* Level: *300*
-
-
+ 
+It refers to:
+ 
+* **Learning path**: *Security*
+* **Sub-Section**: *Incident Response*
+* **Cloud Provider**: *Amazon Web Services*
+* **Level**: *300*
+ 
+ 
 ## How to start?
-1. Read about the project at [RealCloudLabs.com](https://RealCloudLabs.com)
-2. Join the [Telegram Channel](https://t.me/?) to get in touch with our awesome community
+<!-- 1. Read about the project at [RealCloudLabs.com](https://RealCloudLabs.com) -->
+1. Join the [Telegram Channel](https://t.me/?) to get in touch with our awesome community
 3. [Fork this repository](https://github.com/thecrux4020/RealCloudLabs/generate), and use the template below to show your progress. Don't delete other paths that you won't take.
-4. [Choose a Lab](Labs/), do at least 1 per day.
-5. Use the [journey template](Templates/journey.md) to document your achievements each day.
-6. Update the links in the template below, to the corresponding link in Journeys.
-7. When you finish the day, it's a must to **POST YOUR JOURNEY** in social networks (linkedin, twitter, etc). In this way, you'll be more compromised to finish your goals, and at same time you'll **share your knowdledge** with others!
-
-
+4. [Choose a Lab](Labs/ALL.md), do at least 1 per day.
+5. Use one of the [journey templates](Templates/Journey/) to document your achievements each day.
+6. Update the links in the template below, to the corresponding link in [Journeys](Journey/).
+7. When you finish the day, it's a must to **POST YOUR JOURNEY** in social networks (LinkedIn, twitter, etc). In this way, you'll be more compromised to finish your goals, and at same time you'll **share your knowledge** with others!
+ 
+ 
 ## How to use this template:
-Fill in your details where you see this icon ✏️. Replace values inside brackets
-
-The minimum amount of labs you have to complete in order to have a basic knowdledge is 30. If you don't have experience in the path you've taken, we recommend starting with 200-300 level Labs. After complete all of them, move to the most advanced ones.
-
-You can follow whatever labs you consider, this is just an advice from us. 
-
-
-
+Fill in your details where you see this icon ✏️. Replace values inside brackets.
+ 
+The minimum amount of labs you have to complete in order to have basic knowledge is 30. If you don't have experience in the path you've taken, we recommend starting with 200-300 level Labs. After completing all of them, move to the most advanced ones.
+ 
+You can follow whatever labs you consider, this is just advice from us.
+ 
+ 
+ 
 ## [✏️ Your Name]'s Cloud Labs
-
+ 
 [✏️ Introduce yourself]
-
+ 
 [✏️ Tell us why you started]
-
+ 
 [✏️ Tell us what's your goal]
-
+ 
 - [✏️ Link to your Twitter](https://twitter.com/username)
 - [✏️ Link to your LinkedIn](https://www.linkedin.com/in/username)
 - [✏️ Link to whatever social network you prefer]()
-
+ 
 ## Security
-
+ 
 - [X] 🔐 1 => [My first SecLab](Journey/Security/001/readme.md)
 - [ ] 🔐 2 => [](Journey/Security/001/readme.md)
 - [ ] 🔐 3 => [](Journey/Security/002/readme.md)
@@ -100,9 +100,9 @@ You can follow whatever labs you consider, this is just an advice from us.
 - [ ] 🔐 28 => [](Journey/Security/028/readme.md)
 - [ ] 🔐 29 => [](Journey/Security/029/readme.md)
 - [ ] 🔐 30 => [](Journey/Security/030/readme.md)
-
+ 
 ## DevOps
-
+ 
 - [X] 🤖 1 => [My first DevOps Lab](Journey/DevOps/001/readme.md)
 - [ ] 🤖 2 => [](Journey/DevOps/001/readme.md)
 - [ ] 🤖 3 => [](Journey/DevOps/002/readme.md)
@@ -132,10 +132,10 @@ You can follow whatever labs you consider, this is just an advice from us.
 - [ ] 🤖 28 => [](Journey/DevOps/028/readme.md)
 - [ ] 🤖 29 => [](Journey/DevOps/029/readme.md)
 - [ ] 🤖 30 => [](Journey/DevOps/030/readme.md)
-
-
+ 
+ 
 ## Developer
-
+ 
 - [X] 🧙‍♂️ 1 => [My first Dev Lab](Journey/Developer/001/readme.md)
 - [ ] 🧙‍♂️ 2 => [](Journey/Developer/001/readme.md)
 - [ ] 🧙‍♂️ 3 => [](Journey/Developer/002/readme.md)
@@ -165,9 +165,9 @@ You can follow whatever labs you consider, this is just an advice from us.
 - [ ] 🧙‍♂️ 28 => [](Journey/Developer/028/readme.md)
 - [ ] 🧙‍♂️ 29 => [](Journey/Developer/029/readme.md)
 - [ ] 🧙‍♂️ 30 => [](Journey/Developer/030/readme.md)
-
+ 
 ## Networking
-
+ 
 - [X] 🌎 1 => [My first Networking Lab](Journey/Networking/001/readme.md)
 - [ ] 🌎 2 => [](Journey/Networking/001/readme.md)
 - [ ] 🌎 3 => [](Journey/Networking/002/readme.md)
@@ -197,10 +197,10 @@ You can follow whatever labs you consider, this is just an advice from us.
 - [ ] 🌎 28 => [](Journey/Networking/028/readme.md)
 - [ ] 🌎 29 => [](Journey/Networking/029/readme.md)
 - [ ] 🌎 30 => [](Journey/Networking/030/readme.md)
-
-
+ 
+ 
 ## Governance
-
+ 
 - [X] 🔎 1 => [My first Gov Lab](Journey/Governance/001/readme.md)
 - [ ] 🔎 2 => [](Journey/Governance/001/readme.md)
 - [ ] 🔎 3 => [](Journey/Governance/002/readme.md)
@@ -230,10 +230,11 @@ You can follow whatever labs you consider, this is just an advice from us.
 - [ ] 🔎 28 => [](Journey/Governance/028/readme.md)
 - [ ] 🔎 29 => [](Journey/Governance/029/readme.md)
 - [ ] 🔎 30 => [](Journey/Governance/030/readme.md)
-
-
-
+ 
+ 
+ 
 # Contributors
-
+ 
 * [Leandro Mantovani]()
 * Add a Lab to see your name in the list!
+
