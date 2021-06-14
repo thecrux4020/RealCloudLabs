@@ -1,0 +1,1 @@
+Use one of the templates inside [Journey Templates](/Templates/Journey/)
